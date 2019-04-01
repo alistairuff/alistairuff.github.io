@@ -1,0 +1,228 @@
+/**********************************
+GENERAL
+***********************************/
+
+body {
+  font-family: verdana, sans-serif;
+  max-width: 860px;
+  margin: auto;
+  line-height: 1.5;
+}
+
+#wrapper {
+/*  max-width: 940px;*/
+  padding: 0 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+h2 {
+  font-size: 1em;
+  font-weight: 600;
+  margin: 20px 0 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: 
+  padding: 5px;
+}
+
+aside {
+display: inline-block;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+/**********************************
+HEADING
+***********************************/
+
+header {
+
+  margin: 0 0 15px 0;
+  width: 100%;
+  max-width: 940px;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  margin: 15px 0;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 0.8em;
+}
+
+
+/**********************************
+PHOTO
+***********************************/
+
+.profile-photo {
+  display: block;
+  margin: 0 auto 30px;
+  max-width: 200px;
+}
+
+/**********************************
+Intro
+***********************************/
+
+#intro {
+  margin-bottom: 50px;
+}
+
+/**********************************
+FOOTER
+***********************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+/**********************************
+Timeline
+***********************************/
+
+.container {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.column {
+    /*for demo purposes only */
+    padding: 15px 15px;
+    box-sizing: border-box;
+}
+
+.column-one {
+    flex: 0 0 90px;
+    order: 1;
+    background: #f2f2f2;
+    font-size: 0.85em;
+}
+.column-two {
+    flex: 1;
+    order: 2;
+}
+.column-three {
+    flex: 0 0 100px;
+    order: 3;
+    font-size: 0.85em;
+    color: #ccc;
+    
+}
+
+a .container:hover {
+    border: 1px solid #aaa;
+}
+
+/**********************************
+Articles
+***********************************/
+
+.article {
+  padding: 0 5%;
+  margin-bottom: 150px;
+}
+
+.article p {
+  font-family: Georgia, serif;
+  color: #555;
+  line-height: 1.3;
+  font-size: 1.2em;
+}
+
+
+/**********************************
+COLORS
+***********************************/
+
+/* site body */
+body {
+  background-color: #fff;
+  color: #777777;
+}
+
+
+/* logo text */
+h1, h3 {
+  color: #0f5a6b;
+}
+
+h2 {
+  color: #7777
+}
+
+h4 {
+  color: #222;
+  margin-top: 30px
+}
+
+/* links */
+p a {
+  color: #0f5a6b;
+}
+
+/* hover link */
+p a:hover {
+  text-decoration: underline;
+}
+
+p a:visited {
+  color: #0f5a6b;
+}
+
+a {
+  color:#777;
+}
+
+a:visited {
+  color:inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
