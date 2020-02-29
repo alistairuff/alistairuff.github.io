@@ -72,6 +72,7 @@ h1 {
   font-size: 1.5em;
   font-weight: 600;
   line-height: 0.8em;
+    padding-bottom: 10px;
 }
 
 
@@ -180,7 +181,7 @@ body {
 
 /* logo text */
 h1, h3 {
-  color: #0f5a6b;
+  color: #777;
 }
 
 h2 {
