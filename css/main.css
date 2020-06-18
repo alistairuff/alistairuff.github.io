@@ -69,7 +69,8 @@ header {
 }
 
 h1 {
-  margin: 15px 0;
+  font-family: Arial Black;
+    margin: 15px 0;
   font-size: 2em;
   font-weight: 600;
     padding-bottom: 10px;
