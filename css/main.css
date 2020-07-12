@@ -35,7 +35,7 @@ h1 {
 h2 {
   font-size: 28px;
   font-weight: 600;
-  margin: 20px 0 50px;
+  margin: 20px 0 20px;
 }
 
 ul {
@@ -57,7 +57,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #333;
-    margin: 15px 0;
+    margin: 35px 0;
     padding: 0; 
 }
 
@@ -200,7 +200,7 @@ HEADER
 .nav a[aria-current=true] {
  font-weight:bold;
  color:#0B0C0C;
- border-bottom:5px solid #1F4086
+ border-bottom:5px solid #A80000
 }
 
 /**********************************
@@ -302,18 +302,18 @@ COLORS
 
 /* site body */
 body {
-  background-color: #fff;
-  color: #555;
+  background-color: #FFF;
+  color: #333;
 }
 
 
 /* logo text */
 h1, h3 {
-  color: #555;
+  color: #333;
 }
 
 h2 {
-  color: #555
+  color: #333
 }
 
 h4 {
@@ -323,23 +323,12 @@ h4 {
 
 /* links */
 a {
-  color: #1F4086;
-}
-
-/* hover link */
-p a:hover {
-    text-decoration-style: solid;
-    font-weight: bold;
-}
-
-p a:visited {
-  color: #DC2A2A;
+  color: #A80000;
 }
 
 
-a:visited {
-  color:inherit;
-}
+
+
 
 
 
