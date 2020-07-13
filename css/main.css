@@ -22,8 +22,7 @@ a {
 
 img {
   max-width: 100%;
-    float:left;
-    padding-right: 40px;
+    
 }
 
 h1 {
@@ -208,9 +207,9 @@ PHOTO
 ***********************************/
 
 .profile-photo {
-  display: block;
+  float: left
   margin: 0 auto 30px;
-  max-width: 200px;
+  max-width: 300px;
 }
 
 /**********************************
