@@ -263,18 +263,18 @@ COLORS
 
 /* site body */
 body {
-  background-color: #FFF7F8;
+  background-color: #EDEBD7;
   color: #2D2D2A;
 }
 
 
 /* logo text */
 h1, h3 {
-  color: #333;
+  color: #2D2D2A;
 }
 
 h2 {
-  color: #333
+  color: #2D2D2A
 }
 
 h4 {
