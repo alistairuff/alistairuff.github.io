@@ -199,7 +199,7 @@ HEADER
 .nav a[aria-current=true] {
  font-weight:bold;
  color:#0B0C0C;
- border-bottom:5px solid #A80000
+ border-bottom:5px solid #BB342F
 }
 
 /**********************************
@@ -263,7 +263,7 @@ COLORS
 
 /* site body */
 body {
-  background-color: #EDEBD7;
+  background-color: #f1faee;
   color: #2D2D2A;
 }
 
